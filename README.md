@@ -31,7 +31,7 @@ Now, I'm studying AWS and building a home server, learning new technologies ever
 
 ### Infrastructure
 
-![Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux,debian,ubuntu,arch,proxmox) [![Icoziv icons](https://i.icoziv.workers.dev/icons?i=vmware%2Cvirtualbox%2Cdocker%2Camazonwebservices%2Ctailscale%2Ccloudflare&t=light&perline=15&gap=sm)](https://i.icoziv.workers.dev)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux,debian,ubuntu,arch,proxmox,vmwareworkstation,virtualbox,docker,aws,tailscale,cloudflare)
 
 ### Languages & Frameworks
 
@@ -42,8 +42,7 @@ Now, I'm studying AWS and building a home server, learning new technologies ever
 [![Icoziv icons](https://i.icoziv.workers.dev/icons?i=bash%2Czshell%2Cgitbash%2Cpowershell%2Cgit%2Cgithub%2Cgithubactions%2Cnodejs%2Cnpm%2Cvisualstudiocode%2Ceclipse%2Cobsidian%2Cchatgpt%2Cclaudeai%2Cgooglegemini%2Cgrok%2Cgithubcopilot%2Cwireshark%2Ctermux&t=light&perline=15&gap=sm)](https://i.icoziv.workers.dev)
 
 ### Creative
-
-[![Icoziv icons](https://i.icoziv.workers.dev/icons?i=godot%2Caseprite%2Cgimp%2Cblender%2Cdavinciresolve%2Cobs%2Cinkscape&t=light&perline=15&gap=sm)](https://i.icoziv.workers.dev) ![Audacity](https://go-skill-icons.vercel.app/api/icons?i=audacity)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=godot,aseprite,gimp,blender,davinci,obs,inkscape,audacity)
 
 <br>
 

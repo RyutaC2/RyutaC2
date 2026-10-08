@@ -30,7 +30,7 @@
 ## Skills & Technologies
 
 ### Infrastructure
-![infrastructure](https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux,debian,ubuntu,arch,proxmox) [![Icoziv icons](https://i.icoziv.workers.dev/icons?i=vmware%2Cvirtualbox%2Cdocker%2Camazonwebservices%2Ctailscale%2Ccloudflare&t=light&perline=15&gap=sm)](https://i.icoziv.workers.dev)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux,debian,ubuntu,arch,proxmox,vmwareworkstation,virtualbox,docker,aws,tailscale,cloudflare)
 
 ### Language & Frameworks
 [![Icoziv icons](https://i.icoziv.workers.dev/icons?i=html%2Ccss%2Cjavascript%2Ctypescript%2Creactjs%2Cnextjs%2Ctailwindcss%2Cgolang%2Cjava%2Cpython%2Csql%2Cpostgresql%2Cmarkdown%2Cjson%2Cyaml%2Ccsv&t=light&perline=15&gap=sm)](https://i.icoziv.workers.dev)
@@ -39,7 +39,7 @@
 [![Icoziv icons](https://i.icoziv.workers.dev/icons?i=bash%2Czshell%2Cgitbash%2Cpowershell%2Cgit%2Cgithub%2Cgithubactions%2Cnodejs%2Cnpm%2Cvisualstudiocode%2Ceclipse%2Cobsidian%2Cchatgpt%2Cclaudeai%2Cgooglegemini%2Cgrok%2Cgithubcopilot%2Cwireshark%2Ctermux&t=light&perline=15&gap=sm)](https://i.icoziv.workers.dev)
 
 ### Creative
-[![Icoziv icons](https://i.icoziv.workers.dev/icons?i=godot%2Caseprite%2Cgimp%2Cblender%2Cdavinciresolve%2Cobs%2Cinkscape&t=light&perline=15&gap=sm)](https://i.icoziv.workers.dev) ![language](https://go-skill-icons.vercel.app/api/icons?i=audacity)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=godot,aseprite,gimp,blender,davinci,obs,inkscape,audacity)
 
 <br>
 
